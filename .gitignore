@@ -90,6 +90,9 @@ ENV/
 env.bak/
 venv.bak/
 
+
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -102,3 +105,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# generated PDF's
+data/handwriting_grade_5/*.pdf
+data/handwriting_grade_5/*.png
+data/handwriting_grade_5/*.jpeg
+data/handwriting_grade_5/*.jpg
